@@ -20,7 +20,7 @@ public class UsoCoche {
 
         System.out.println(miCoche.dimeClimatizador());
 
-        System.out.println(miCoche.dimePesoCoche());
+        System.out.println(miCoche.dimePesoCoche());//gdsfgsdf
 
         System.out.println("El precio final del coche es: " + miCoche.precioCoche());
     }
